@@ -18,4 +18,21 @@ const userpay = {
   name: "ivan",
   age: "312",
 };
-console.log(typeof userName);
+
+const myName = "sergey";
+const nameToMuch = Number(myName);
+console.log(nameToMuch);
+
+console.log(typeof +"45");
+console.log(typeof Number("45"));
+
+console.log(2 == 3);
+console.log(2 == 2);
+console.log(2 !== 2);
+console.log(2 >= 2);
+
+console.log(2 + 6 + "3");
+console.log("2" + 3 + 3);
+console.log(2 + 3);
+
+console.log(Boolean(2 > 3));

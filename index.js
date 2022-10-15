@@ -65,9 +65,9 @@
 // Towns[1] = "parisw";
 // console.log(Towns);
 
-const myFilms = ["film 1", "film2", "film3"];
-console.log(myFilms[0]);
-myFilms.push("film4");
-console.log(myFilms);
-const lastIndex = myFilms.length - 2;
-console.log(myFilms[lastIndex]);
+// const myFilms = ["film 1", "film2", "film3"];
+// console.log(myFilms[0]);
+// myFilms.push("film4");
+// console.log(myFilms);
+// const lastIndex = myFilms.length - 2;
+// console.log(myFilms[lastIndex]);
